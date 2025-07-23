@@ -551,7 +551,7 @@
     
     <!-- Anti-bot & Redirect -->
     <input type="hidden" name="_captcha" value="false">
-     <input type="hidden" name="_next" value="https://beyondborders627.github.io//terima-kasih.asp">
+     <input type="hidden" name="_next" value="https://beyondborders627.github.io/terima-kasih.html">
     
     <div class="mb-6">
       <label for="name" class="block text-gray-700 font-medium mb-2">Nama</label>
